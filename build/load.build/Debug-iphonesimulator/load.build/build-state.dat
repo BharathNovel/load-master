@@ -1,0 +1,350 @@
+Tload
+v7
+r0
+t330272814.177370
+cCheck dependencies
+cProcessInfoPlistFile /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/Info.plist load-Info.plist
+cCompileXIB /Users/sm00th/Documents/iphone/load/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/load.app/page_blank_512.png page_blank_512.png
+cProcessPCH /var/folders/zZ/zZKhi0h5H50gZtS2pynwQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/load_Prefix-eobumyrdgmsmsoduhquagjvlnwiw/load_Prefix.pch.gch load_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/main.o /Users/sm00th/Documents/iphone/load/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/loadAppDelegate.o /Users/sm00th/Documents/iphone/load/Classes/loadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/connectionController.o /Users/sm00th/Documents/iphone/load/Classes/connectionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/VariableStore.o /Users/sm00th/Documents/iphone/load/Classes/VariableStore.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/load normal i386
+cGenerateDSYMFile /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app.dSYM /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/load
+cTouch /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c000000004CC1226B000000000010AFE0
+t1287725675
+s1093600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sm00th/Documents/iphone/load/Classes/VariableStore.h
+c000000004DFF53A90000000000000192
+t1308578729
+s402
+i<UIKit/UIKit.h>
+
+N/Users/sm00th/Documents/iphone/load/Classes/VariableStore.m
+c000000004DFF53AF0000000000000591
+t1308578735
+s1425
+i"VariableStore.h"
+
+N/Users/sm00th/Documents/iphone/load/Classes/bug_512.png
+c000000004DFDE145000000000000E4EB
+t1308483909
+s58603
+
+N/Users/sm00th/Documents/iphone/load/Classes/connectionController.h
+c000000004DFF473E0000000000000053
+t1308575550
+s83
+i"loadAppDelegate.h"
+
+N/Users/sm00th/Documents/iphone/load/Classes/connectionController.m
+c000000004DFF51A100000000000005CC
+t1308578209
+s1484
+i"connectionController.h"
+
+N/Users/sm00th/Documents/iphone/load/Classes/loadAppDelegate.h
+c000000004DFF53A10000000000000188
+t1308578721
+s392
+i<UIKit/UIKit.h>
+i"VariableStore.h"
+
+N/Users/sm00th/Documents/iphone/load/Classes/loadAppDelegate.m
+c000000004DFF539C0000000000001431
+t1308578716
+s5169
+i"loadAppDelegate.h"
+i"connectionController.h"
+i"VariableStore.h"
+
+N/Users/sm00th/Documents/iphone/load/Classes/variable.xib
+c000000004DFDD93C0000000000001116
+t1308481852
+s4374
+
+N/Users/sm00th/Documents/iphone/load/MainWindow.xib
+c000000004DFDD7180000000000006521
+t1308481304
+s25889
+
+N/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app
+t1308580014
+s238
+
+N/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app.dSYM
+t1308580014
+s102
+
+N/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/Info.plist
+t1308578248
+s579
+
+N/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/MainWindow.nib
+t1308578252
+s1675
+
+N/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/PkgInfo
+t1308578248
+s8
+
+N/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/bug_512.png
+t1308577119
+s58603
+
+N/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/load
+t1308580014
+s24436
+
+N/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/page_blank_512.png
+t1308578249
+s127173
+
+N/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/variable.nib
+t2
+s0
+
+N/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/whiteButton.png
+t1308312414
+s1430
+
+N/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/VariableStore.o
+t1308578758
+s43432
+
+N/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/connectionController.o
+t1308578758
+s41112
+
+N/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/load.LinkFileList
+c000000004DFF51C800000000000001E8
+t1308578248
+s488
+
+N/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/loadAppDelegate.o
+t1308578758
+s62568
+
+N/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/main.o
+t1308580013
+s6296
+
+N/Users/sm00th/Documents/iphone/load/load_Prefix.pch
+c000000004DFB428000000000000000B1
+t1308312192
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sm00th/Documents/iphone/load/main.m
+c000000004DFF58AD00000000000000E5
+t1308580013
+s229
+i<UIKit/UIKit.h>
+
+N/Users/sm00th/Documents/iphone/load/page_blank_512.png
+c000000004DFC9C50000000000001F0C5
+t1308400720
+s127173
+
+N/Users/sm00th/Documents/iphone/load/variable.xib
+c000000004DFDD94B0000000000001116
+t1308481867
+s4374
+
+N/Users/sm00th/Documents/iphone/load/whiteButton.png
+c000000004DFB3CEA0000000000000596
+t1308310762
+s1430
+
+N/var/folders/zZ/zZKhi0h5H50gZtS2pynwQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/load_Prefix-eobumyrdgmsmsoduhquagjvlnwiw/load_Prefix.pch.gch
+t1308578256
+s15453392
+
+Nload-Info.plist
+c000000004DFB4280000000000000038D
+t1308312192
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330272813#330272813#0(0"0(0#1#0"8621632032#0"0#
+
+CCompileC build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/VariableStore.o /Users/sm00th/Documents/iphone/load/Classes/VariableStore.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330271558.126348
+e330271558.294396
+r1
+xCompileC
+xbuild/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/VariableStore.o
+x/Users/sm00th/Documents/iphone/load/Classes/VariableStore.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/sm00th/Documents/iphone/load/Classes/VariableStore.m330271558#330271558#0(0"0(0#0#59"/Users/sm00th/Documents/iphone/load/Classes/VariableStore.m8622088544#1847"    cd /Users/sm00th/Documents/iphone/load    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-generated-files.hmap -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-own-target-headers.hmap -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-all-target-headers.hmap -iquote /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-project-headers.hmap -F/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator -I/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/include -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/DerivedSources/i386 -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/DerivedSources -include /var/folders/zZ/zZKhi0h5H50gZtS2pynwQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/load_Prefix-eobumyrdgmsmsoduhquagjvlnwiw/load_Prefix.pch -c /Users/sm00th/Documents/iphone/load/Classes/VariableStore.m -o /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/VariableStore.o0#
+
+CCompileC build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/connectionController.o /Users/sm00th/Documents/iphone/load/Classes/connectionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330271558.037700
+e330271558.126244
+r1
+xCompileC
+xbuild/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/connectionController.o
+x/Users/sm00th/Documents/iphone/load/Classes/connectionController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/sm00th/Documents/iphone/load/Classes/connectionController.m330271558#330271558#0(0"0(0#0#66"/Users/sm00th/Documents/iphone/load/Classes/connectionController.m8617789824#1861"    cd /Users/sm00th/Documents/iphone/load    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-generated-files.hmap -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-own-target-headers.hmap -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-all-target-headers.hmap -iquote /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-project-headers.hmap -F/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator -I/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/include -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/DerivedSources/i386 -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/DerivedSources -include /var/folders/zZ/zZKhi0h5H50gZtS2pynwQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/load_Prefix-eobumyrdgmsmsoduhquagjvlnwiw/load_Prefix.pch -c /Users/sm00th/Documents/iphone/load/Classes/connectionController.m -o /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/connectionController.o0#
+
+CCompileC build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/loadAppDelegate.o /Users/sm00th/Documents/iphone/load/Classes/loadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330271558.034454
+e330271558.225156
+r1
+xCompileC
+xbuild/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/loadAppDelegate.o
+x/Users/sm00th/Documents/iphone/load/Classes/loadAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/sm00th/Documents/iphone/load/Classes/loadAppDelegate.m330271558#330271558#0(0"0(0#0#61"/Users/sm00th/Documents/iphone/load/Classes/loadAppDelegate.m8621454432#1851"    cd /Users/sm00th/Documents/iphone/load    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-generated-files.hmap -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-own-target-headers.hmap -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-all-target-headers.hmap -iquote /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-project-headers.hmap -F/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator -I/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/include -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/DerivedSources/i386 -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/DerivedSources -include /var/folders/zZ/zZKhi0h5H50gZtS2pynwQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/load_Prefix-eobumyrdgmsmsoduhquagjvlnwiw/load_Prefix.pch -c /Users/sm00th/Documents/iphone/load/Classes/loadAppDelegate.m -o /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/loadAppDelegate.o0#
+
+CCompileC build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/main.o /Users/sm00th/Documents/iphone/load/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330272813.751660
+e330272813.904052
+r1
+xCompileC
+xbuild/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/main.o
+x/Users/sm00th/Documents/iphone/load/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/sm00th/Documents/iphone/load/main.m330272813#330272813#0(0"0(0#0#42"/Users/sm00th/Documents/iphone/load/main.m8618319424#1821"    cd /Users/sm00th/Documents/iphone/load    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-generated-files.hmap -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-own-target-headers.hmap -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-all-target-headers.hmap -iquote /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-project-headers.hmap -F/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator -I/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/include -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/DerivedSources/i386 -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/DerivedSources -include /var/folders/zZ/zZKhi0h5H50gZtS2pynwQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/load_Prefix-eobumyrdgmsmsoduhquagjvlnwiw/load_Prefix.pch -c /Users/sm00th/Documents/iphone/load/main.m -o /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sm00th/Documents/iphone/load/Classes/variable.xib
+r0
+
+CCompileXIB /Users/sm00th/Documents/iphone/load/MainWindow.xib
+s330271048.976981
+e330271052.683566
+r1
+xCompileXIB
+x/Users/sm00th/Documents/iphone/load/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib330271048#330271052#0(0"0(0#0#50"/Users/sm00th/Documents/iphone/load/MainWindow.xib8618447744#558"    cd /Users/sm00th/Documents/iphone/load    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/MainWindow.nib /Users/sm00th/Documents/iphone/load/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sm00th/Documents/iphone/load/variable.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/load.app/bug_512.png Classes/bug_512.png
+s330269919.158840
+e330269919.220594
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/load.app/bug_512.png
+xClasses/bug_512.png
+lSLF07#2@24"Copy Classes/bug_512.png330269919#330269919#0(0"0(0#0#55"/Users/sm00th/Documents/iphone/load/Classes/bug_512.png8619174464#465"    cd /Users/sm00th/Documents/iphone/load    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sm00th/Documents/iphone/load/Classes/bug_512.png /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app0#
+
+CCpResource build/Debug-iphonesimulator/load.app/page_blank_512.png page_blank_512.png
+s330271048.996163
+e330271049.168291
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/load.app/page_blank_512.png
+xpage_blank_512.png
+lSLF07#2@23"Copy page_blank_512.png330271048#330271049#0(0"0(0#0#54"/Users/sm00th/Documents/iphone/load/page_blank_512.png8618110560#464"    cd /Users/sm00th/Documents/iphone/load    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sm00th/Documents/iphone/load/page_blank_512.png /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app0#
+
+CCpResource build/Debug-iphonesimulator/load.app/whiteButton.png whiteButton.png
+s330005214.919665
+e330005214.948541
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/load.app/whiteButton.png
+xwhiteButton.png
+lSLF07#2@20"Copy whiteButton.png330005214#330005214#0(0"0(0#0#51"/Users/sm00th/Documents/iphone/load/whiteButton.png8613077920#461"    cd /Users/sm00th/Documents/iphone/load    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sm00th/Documents/iphone/load/whiteButton.png /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app0#
+
+CGenerateDSYMFile /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app.dSYM /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/load
+s330272814.094230
+e330272814.173945
+r1
+xGenerateDSYMFile
+x/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app.dSYM
+x/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/load
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/load.app.dSYM build/Debug-iphonesimulator/load.app/load330272814#330272814#0(0"0(0#0#77"/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/load8618061440#365"    cd /Users/sm00th/Documents/iphone/load    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/load -o /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app.dSYM0#
+
+CLd /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/load normal i386
+s330272813.904166
+e330272814.094111
+r1
+xLd
+x/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/load
+xnormal
+xi386
+lSLF07#2@82"Link /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/load330272813#330272814#0(0"0(0#0#0"8619689568#870"    cd /Users/sm00th/Documents/iphone/load    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator -F/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator -filelist /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/Objects-normal/i386/load.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/load0#
+
+CProcessInfoPlistFile /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/Info.plist load-Info.plist
+s330271048.973682
+e330271048.976904
+r1
+xProcessInfoPlistFile
+x/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/Info.plist
+xload-Info.plist
+lSLF07#2@23"Process load-Info.plist330271048#330271048#0(0"0(0#0#51"/Users/sm00th/Documents/iphone/load/load-Info.plist8619163232#461"    cd /Users/sm00th/Documents/iphone/load    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility load-Info.plist -genpkginfo /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app/Info.plist0#
+
+CProcessPCH /var/folders/zZ/zZKhi0h5H50gZtS2pynwQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/load_Prefix-eobumyrdgmsmsoduhquagjvlnwiw/load_Prefix.pch.gch load_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330271052.683744
+e330271056.724501
+r1
+xProcessPCH
+x/var/folders/zZ/zZKhi0h5H50gZtS2pynwQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/load_Prefix-eobumyrdgmsmsoduhquagjvlnwiw/load_Prefix.pch.gch
+xload_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile load_Prefix.pch330271052#330271056#0(0"0(0#0#51"/Users/sm00th/Documents/iphone/load/load_Prefix.pch8590519008#1719"    cd /Users/sm00th/Documents/iphone/load    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-generated-files.hmap -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-own-target-headers.hmap -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-all-target-headers.hmap -iquote /Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/load-project-headers.hmap -F/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator -I/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/include -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/DerivedSources/i386 -I/Users/sm00th/Documents/iphone/load/build/load.build/Debug-iphonesimulator/load.build/DerivedSources -c /Users/sm00th/Documents/iphone/load/load_Prefix.pch -o /var/folders/zZ/zZKhi0h5H50gZtS2pynwQU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/load_Prefix-eobumyrdgmsmsoduhquagjvlnwiw/load_Prefix.pch.gch0#
+
+CTouch /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app
+s330272814.174033
+e330272814.177093
+r1
+xTouch
+x/Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app
+lSLF07#2@78"Touch /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app330272814#330272814#0(0"0(0#0#0"8617941056#269"    cd /Users/sm00th/Documents/iphone/load    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sm00th/Documents/iphone/load/build/Debug-iphonesimulator/load.app0#
+
